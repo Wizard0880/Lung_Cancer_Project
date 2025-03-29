@@ -49,7 +49,7 @@ The dataset should be organized into training (`train`), validation (`valid`), a
 Alternatively, you can also download a similar dataset from [Kaggle](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) which includes Chest CT scan images.
 
 ### Google Colab Link
-To replicate and run the project in Google Colab, use the following link: [Lung Cancer Prediction System on Colab](https://colab.research.google.com/drive/1kMTghEwVoJaFmlKydxuhhoyzHluIUjoV?usp=sharing)
+To replicate and run the project in Google Colab, use the following link: [Lung Cancer Prediction System on Colab](https://colab.research.google.com/github/Wizard0880/Lung_Cancer_Project/blob/main/Lung%20Cancer%20Pred.ipynb)
 
 
 ### Usage
